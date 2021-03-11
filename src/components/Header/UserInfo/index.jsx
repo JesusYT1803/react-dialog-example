@@ -3,9 +3,9 @@ import "./UserInfo.css";
 
 const UserInfo = () => (
   <div className="user-info">
-    <div className="name">Ilezus Dev</div>
+    <div className="name">Alex Dev</div>
     <div className="status">
-      <span className="circle" />В сети
+      <span className="circle" />Online
     </div>
   </div>
 );
